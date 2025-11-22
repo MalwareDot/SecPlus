@@ -1,6 +1,6 @@
 # 457 Question and answers for the CompTIA Security+ Sy0-701 Exam
 
-Fork the `Questions.Json` and correct mistakes and contact me your fork address and i will update it on the website ASAP
+Fork the `Questions.Json` , correct mistakes and contact me your fork address, i will update it on the website ASAP
 
 
 ## Links
